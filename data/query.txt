@@ -1,0 +1,1 @@
+join('',[tekst[0],woorden.fout[0],tekst[1],woorden.fout[1],tekst[2],woorden.fout[2]])
