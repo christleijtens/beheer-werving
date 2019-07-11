@@ -1,5 +1,7 @@
 # Welkom op de GIT-pagina van de Beheer-wervings opdracht
 
+![Uitdaging](generate.png)
+
 Beste Collega,
 
 In deze opdracht gebruik je een aantal technologiën die we ook willen gaan gebruiken in ons Agile team
